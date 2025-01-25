@@ -71,7 +71,7 @@ Travel Map App is an innovative platform where users can pin places on a world m
    cd ../frontend
    ```bash
    npm i{
-  "bcrypt": "^5.1.1",
+   "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
