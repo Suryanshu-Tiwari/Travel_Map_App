@@ -84,14 +84,18 @@ Travel Map App is an innovative platform where users can pin places on a world m
 5. Start the application:
    bash
    # Backend
+   ```bash
    cd ../backend
    npm start
+   ```
 
    # Frontend
+   ```bash
    cd ../frontend
    npm run dev
+   ```
    
-6. Open your browser and navigate to http://localhost:3000 to access the app.
+7. Open your browser and navigate to http://localhost:3000 to access the app.
 
 ---
 
